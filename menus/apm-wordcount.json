@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle apm-wordcount",
+        "command": "apm-wordcount:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "apm-wordcount",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "apm-wordcount:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
