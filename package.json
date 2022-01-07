@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "apm-wordcount:toggle"
   },
-  "repository": "https://github.com/atom/apm-wordcount",
+  "repository": "https://github.com/ramkumar-vkp/apm-wordcount",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
